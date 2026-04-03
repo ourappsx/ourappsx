@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ArcadeForge home OG image</title>
+  <desc id="desc">Social sharing card for homepage with product studio positioning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="60" x2="1130" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#EAF4FB"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="760" y1="132" x2="1018" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#34C7A1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="34" fill="#FFFFFF" fill-opacity="0.74" stroke="#FFFFFF"/>
+  <rect x="110" y="112" width="84" height="84" rx="26" fill="url(#accent)"/>
+  <text x="220" y="166" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.6">ArcadeForge Studios</text>
+  <text x="112" y="256" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-3.1">iOS Utilities + Mobile Games</text>
+  <text x="112" y="330" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-3.1">Built for Product Longevity</text>
+  <text x="112" y="390" fill="#566679" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500">Premium UX, disciplined IAA and IAP monetization, and store-ready execution.</text>
+  <rect x="112" y="438" width="178" height="54" rx="27" fill="#0B1320"/>
+  <text x="144" y="472" fill="#F8FBFF" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600">ourappsx.com</text>
+  <rect x="748" y="132" width="304" height="360" rx="58" fill="#0F2038"/>
+  <rect x="770" y="154" width="260" height="316" rx="40" fill="#122641"/>
+  <rect x="820" y="214" width="164" height="56" rx="22" fill="url(#accent)"/>
+  <rect x="820" y="296" width="104" height="104" rx="30" fill="#F8FBFF" fill-opacity="0.95"/>
+  <rect x="938" y="296" width="56" height="104" rx="22" fill="#F8FBFF" fill-opacity="0.25"/>
+</svg>

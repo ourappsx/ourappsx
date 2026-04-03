@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ArcadeForge monochrome favicon</title>
+  <desc id="desc">Monochrome favicon for dark or pinned-tab contexts.</desc>
+  <rect x="6" y="6" width="52" height="52" rx="18" fill="#0B1320"/>
+  <path d="M20 18H40.5C46.299 18 51 22.701 51 28.5C51 34.299 46.299 39 40.5 39H30V48H20V18Z" fill="#F8FBFF"/>
+  <path d="M30 39L45 48H32.5L30 46.5V39Z" fill="#A9E6D1"/>
+</svg>

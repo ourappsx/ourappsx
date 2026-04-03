@@ -1,0 +1,54 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Feature modules illustration</title>
+  <desc id="desc">An App Store inspired feature card layout for IAA, IAP, privacy, and compliance modules.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="72" y1="44" x2="576" y2="378" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9FCFF"/>
+      <stop offset="1" stop-color="#EBF4FB"/>
+    </linearGradient>
+    <linearGradient id="tileA" x1="96" y1="92" x2="282" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A84FF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0A84FF" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="tileB" x1="354" y1="92" x2="544" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34C7A1" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#34C7A1" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="tileC" x1="96" y1="248" x2="282" y2="372" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1320" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0B1320" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="tileD" x1="354" y1="248" x2="544" y2="372" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8C42" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#FF8C42" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="16" width="600" height="388" rx="34" fill="url(#canvas)"/>
+  <rect x="56" y="52" width="250" height="148" rx="26" fill="url(#tileA)"/>
+  <rect x="334" y="52" width="250" height="148" rx="26" fill="url(#tileB)"/>
+  <rect x="56" y="220" width="250" height="148" rx="26" fill="url(#tileC)"/>
+  <rect x="334" y="220" width="250" height="148" rx="26" fill="url(#tileD)"/>
+
+  <circle cx="124" cy="112" r="28" fill="#0A84FF"/>
+  <rect x="164" y="96" width="106" height="16" rx="8" fill="#163255" fill-opacity="0.84"/>
+  <rect x="164" y="124" width="88" height="12" rx="6" fill="#5D6F85"/>
+
+  <rect x="96" y="252" width="56" height="56" rx="18" fill="#F8FBFF" fill-opacity="0.94"/>
+  <rect x="164" y="250" width="106" height="16" rx="8" fill="#172F51" fill-opacity="0.88"/>
+  <rect x="164" y="278" width="92" height="12" rx="6" fill="#67788E"/>
+
+  <circle cx="402" cy="112" r="28" fill="#34C7A1"/>
+  <rect x="442" y="96" width="106" height="16" rx="8" fill="#18364F" fill-opacity="0.84"/>
+  <rect x="442" y="124" width="94" height="12" rx="6" fill="#5F7388"/>
+
+  <rect x="374" y="252" width="56" height="56" rx="18" fill="#FFFFFF" fill-opacity="0.9"/>
+  <rect x="442" y="250" width="106" height="16" rx="8" fill="#17304F" fill-opacity="0.88"/>
+  <rect x="442" y="278" width="94" height="12" rx="6" fill="#67788D"/>
+
+  <path d="M118 112H130" stroke="#F8FBFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M118 124H138" stroke="#F8FBFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M396 112H408" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M402 106V118" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M110 282L118 290L136 272" stroke="#0B1320" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M388 282L396 290L414 272" stroke="#0B1320" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

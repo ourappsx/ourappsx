@@ -1,0 +1,9 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">IAP icon</title>
+  <desc id="desc">Icon representing in-app purchase monetization.</desc>
+  <rect x="8" y="8" width="80" height="80" rx="26" fill="#E9FFF8"/>
+  <path d="M31 35C31 25.6112 38.6112 18 48 18C57.3888 18 65 25.6112 65 35V39H69C72.3137 39 75 41.6863 75 45V66C75 72.6274 69.6274 78 63 78H33C26.3726 78 21 72.6274 21 66V45C21 41.6863 23.6863 39 27 39H31V35Z" fill="#34C7A1"/>
+  <path d="M39 39V35C39 30.0294 43.0294 26 48 26C52.9706 26 57 30.0294 57 35V39" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 50V61" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="48" cy="47" r="4" fill="#FFFFFF"/>
+</svg>

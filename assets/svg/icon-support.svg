@@ -1,0 +1,8 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Support icon</title>
+  <desc id="desc">Icon representing customer support and contact.</desc>
+  <rect x="8" y="8" width="80" height="80" rx="26" fill="#EEF4FF"/>
+  <path d="M48 22C34.7452 22 24 32.7452 24 46C24 50.5211 25.2511 54.7511 27.4261 58.3618L24 70L35.6382 66.5739C39.2489 68.7489 43.4789 70 48 70C61.2548 70 72 59.2548 72 46C72 32.7452 61.2548 22 48 22Z" fill="#0A84FF"/>
+  <path d="M38 40H58" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M38 50H51" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+</svg>

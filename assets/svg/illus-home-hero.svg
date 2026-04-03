@@ -1,0 +1,52 @@
+<svg width="720" height="540" viewBox="0 0 720 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">App Store style hero illustration</title>
+  <desc id="desc">A polished app showcase scene for ArcadeForge homepage hero.</desc>
+  <defs>
+    <linearGradient id="bg" x1="98" y1="44" x2="620" y2="484" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#E9F3FB"/>
+    </linearGradient>
+    <radialGradient id="haloA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(156 98) rotate(50) scale(190 150)">
+      <stop stop-color="#0A84FF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0A84FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haloB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(592 430) rotate(-22) scale(230 170)">
+      <stop stop-color="#34C7A1" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#34C7A1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cardA" x1="380" y1="102" x2="560" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1320"/>
+      <stop offset="1" stop-color="#1B355C"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="406" y1="180" x2="532" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#34C7A1"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="22" width="672" height="496" rx="36" fill="url(#bg)"/>
+  <circle cx="170" cy="110" r="170" fill="url(#haloA)"/>
+  <circle cx="594" cy="430" r="210" fill="url(#haloB)"/>
+
+  <rect x="70" y="76" width="262" height="356" rx="30" fill="#FFFFFF" fill-opacity="0.84" stroke="#FFFFFF"/>
+  <rect x="92" y="104" width="84" height="84" rx="24" fill="#0A84FF" fill-opacity="0.12"/>
+  <path d="M110 124H158C170.15 124 180 133.85 180 146C180 158.15 170.15 168 158 168H136V184H110V124Z" fill="#0A84FF"/>
+  <path d="M136 168L169 184H145L136 178.5V168Z" fill="#34C7A1"/>
+  <rect x="92" y="214" width="212" height="18" rx="9" fill="#142943" fill-opacity="0.8"/>
+  <rect x="92" y="244" width="186" height="14" rx="7" fill="#6B7C91"/>
+  <rect x="92" y="270" width="198" height="14" rx="7" fill="#6B7C91"/>
+  <rect x="92" y="296" width="168" height="14" rx="7" fill="#6B7C91"/>
+  <rect x="92" y="336" width="118" height="44" rx="22" fill="#0B1320"/>
+  <rect x="222" y="336" width="82" height="44" rx="22" fill="#EEF4FB"/>
+
+  <rect x="356" y="100" width="294" height="368" rx="54" fill="url(#cardA)"/>
+  <rect x="376" y="122" width="254" height="328" rx="38" fill="#0F2038"/>
+  <rect x="436" y="178" width="134" height="52" rx="20" fill="url(#pill)"/>
+  <rect x="420" y="250" width="92" height="92" rx="28" fill="#F8FBFF" fill-opacity="0.94"/>
+  <rect x="526" y="250" width="78" height="92" rx="24" fill="#F8FBFF" fill-opacity="0.24"/>
+  <rect x="420" y="358" width="184" height="16" rx="8" fill="#9BB3CF"/>
+  <rect x="420" y="386" width="144" height="14" rx="7" fill="#9BB3CF"/>
+  <rect x="420" y="412" width="170" height="14" rx="7" fill="#9BB3CF"/>
+
+  <rect x="304" y="164" width="122" height="50" rx="25" fill="#FFFFFF" fill-opacity="0.75"/>
+  <rect x="284" y="352" width="128" height="52" rx="26" fill="#FFFFFF" fill-opacity="0.82"/>
+</svg>

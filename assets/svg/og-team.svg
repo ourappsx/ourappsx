@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ArcadeForge team OG image</title>
+  <desc id="desc">Social sharing card for team page with operating model messaging.</desc>
+  <defs>
+    <linearGradient id="bg" x1="78" y1="58" x2="1122" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9FCFF"/>
+      <stop offset="1" stop-color="#EAF3FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="34" fill="#FFFFFF" fill-opacity="0.76" stroke="#FFFFFF"/>
+  <text x="112" y="178" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.6">ArcadeForge Studios</text>
+  <text x="112" y="260" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">A Product Foundry Team</text>
+  <text x="112" y="334" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">for Apple Platforms</text>
+  <text x="112" y="396" fill="#566679" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500">Design, engineering, monetization, and compliance in one integrated delivery model.</text>
+  <rect x="112" y="438" width="186" height="54" rx="27" fill="#0B1320"/>
+  <text x="142" y="472" fill="#F8FBFF" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600">Team Profile</text>
+
+  <rect x="724" y="128" width="334" height="376" rx="34" fill="#F4F9FF" stroke="#D9E7F4"/>
+  <rect x="748" y="154" width="134" height="146" rx="24" fill="#0A84FF" fill-opacity="0.16"/>
+  <rect x="900" y="154" width="134" height="146" rx="24" fill="#34C7A1" fill-opacity="0.2"/>
+  <rect x="748" y="318" width="286" height="160" rx="26" fill="#0B1320"/>
+  <circle cx="815" cy="225" r="24" fill="#0A84FF"/>
+  <circle cx="966" cy="225" r="24" fill="#34C7A1"/>
+  <rect x="786" y="256" width="70" height="10" rx="5" fill="#557190"/>
+  <rect x="936" y="256" width="70" height="10" rx="5" fill="#557190"/>
+  <rect x="782" y="354" width="184" height="16" rx="8" fill="#F8FBFF" fill-opacity="0.92"/>
+  <rect x="782" y="384" width="220" height="12" rx="6" fill="#8FA8CA"/>
+  <rect x="782" y="408" width="190" height="12" rx="6" fill="#8FA8CA"/>
+</svg>

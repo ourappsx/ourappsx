@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ArcadeForge contact OG image</title>
+  <desc id="desc">Social sharing card for contact page with support and enterprise routing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="86" y1="52" x2="1110" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#E9F3FB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="34" fill="#FFFFFF" fill-opacity="0.76" stroke="#FFFFFF"/>
+  <text x="112" y="174" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.6">ArcadeForge Studios</text>
+  <text x="112" y="254" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Contact the Right Channel</text>
+  <text x="112" y="328" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Support, Business, Enterprise</text>
+  <text x="112" y="390" fill="#566679" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500">Fast routing for users, partners, and strategic collaboration requests.</text>
+  <rect x="112" y="438" width="170" height="54" rx="27" fill="#0B1320"/>
+  <text x="144" y="472" fill="#F8FBFF" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600">Contact</text>
+
+  <rect x="736" y="122" width="320" height="386" rx="34" fill="#F4F9FF" stroke="#D9E7F4"/>
+  <path d="M820 230H896" stroke="#B3CBE2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M896 230H972" stroke="#B3CBE2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M896 184V278" stroke="#B3CBE2" stroke-width="8" stroke-linecap="round"/>
+  <rect x="786" y="198" width="96" height="64" rx="20" fill="#0A84FF"/>
+  <rect x="848" y="152" width="96" height="64" rx="20" fill="#34C7A1"/>
+  <rect x="910" y="198" width="96" height="64" rx="20" fill="#0B1320"/>
+  <rect x="848" y="250" width="96" height="64" rx="20" fill="#FFFFFF" stroke="#D9E7F4"/>
+  <rect x="782" y="344" width="224" height="16" rx="8" fill="#163152" fill-opacity="0.88"/>
+  <rect x="782" y="374" width="196" height="12" rx="6" fill="#6C7E93"/>
+  <rect x="782" y="398" width="168" height="12" rx="6" fill="#6C7E93"/>
+</svg>

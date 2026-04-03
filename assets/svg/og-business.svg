@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ArcadeForge business OG image</title>
+  <desc id="desc">Social sharing card for IAA and IAP business page.</desc>
+  <defs>
+    <linearGradient id="bg" x1="86" y1="54" x2="1112" y2="578" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#EAF3FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="34" fill="#FFFFFF" fill-opacity="0.76" stroke="#FFFFFF"/>
+  <text x="112" y="174" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.6">ArcadeForge Studios</text>
+  <text x="112" y="254" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">IAA + IAP Strategy</text>
+  <text x="112" y="328" fill="#0B1320" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">for Utility and Game Lines</text>
+  <text x="112" y="390" fill="#566679" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500">Monetization matched to user intent, retention behavior, and marketplace policy.</text>
+  <rect x="112" y="438" width="172" height="54" rx="27" fill="#0B1320"/>
+  <text x="142" y="472" fill="#F8FBFF" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600">Business</text>
+
+  <rect x="734" y="120" width="322" height="390" rx="34" fill="#F4F9FF" stroke="#D9E7F4"/>
+  <rect x="760" y="148" width="126" height="146" rx="24" fill="#0A84FF" fill-opacity="0.14"/>
+  <rect x="904" y="148" width="126" height="146" rx="24" fill="#34C7A1" fill-opacity="0.18"/>
+  <rect x="760" y="312" width="270" height="170" rx="26" fill="#0B1320"/>
+  <rect x="786" y="180" width="72" height="72" rx="20" fill="#0A84FF"/>
+  <rect x="930" y="180" width="72" height="72" rx="20" fill="#34C7A1"/>
+  <rect x="790" y="344" width="128" height="16" rx="8" fill="#F8FBFF" fill-opacity="0.92"/>
+  <rect x="790" y="374" width="206" height="12" rx="6" fill="#8FA8CA"/>
+  <rect x="790" y="398" width="186" height="12" rx="6" fill="#8FA8CA"/>
+</svg>

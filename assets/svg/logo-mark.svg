@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">ArcadeForge Studios logo</title>
+  <desc id="logoDesc">A polished geometric monogram representing ArcadeForge Studios.</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#34C7A1"/>
+    </linearGradient>
+    <linearGradient id="fg" x1="43" y1="31" x2="88" y2="95" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="#E8F5FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="108" height="108" rx="34" fill="url(#bg)"/>
+  <path d="M35 39H81C89.8366 39 97 46.1634 97 55V55C97 63.8366 89.8366 71 81 71H58V89H35V39Z" fill="url(#fg)"/>
+  <path d="M53 53H81C82.1046 53 83 53.8954 83 55V55C83 56.1046 82.1046 57 81 57H53V53Z" fill="#0A84FF" fill-opacity="0.4"/>
+  <path d="M58 71L91 89H63.5L58 86.3V71Z" fill="#E7FFF8" fill-opacity="0.95"/>
+</svg>

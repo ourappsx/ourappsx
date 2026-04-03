@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ArcadeForge favicon</title>
+  <desc id="desc">Compact ArcadeForge Studios favicon with gradient shield and monogram.</desc>
+  <defs>
+    <linearGradient id="favBg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#34C7A1"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="18" fill="url(#favBg)"/>
+  <path d="M20 18H40.5C46.299 18 51 22.701 51 28.5C51 34.299 46.299 39 40.5 39H30V48H20V18Z" fill="white"/>
+  <path d="M30 39L45 48H32.5L30 46.5V39Z" fill="#E8FFF7"/>
+</svg>

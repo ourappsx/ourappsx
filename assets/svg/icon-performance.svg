@@ -1,0 +1,9 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Performance icon</title>
+  <desc id="desc">Icon representing speed and performance.</desc>
+  <rect x="8" y="8" width="80" height="80" rx="26" fill="#EDF8F4"/>
+  <path d="M48 24C34.7452 24 24 34.7452 24 48C24 61.2548 34.7452 72 48 72C61.2548 72 72 61.2548 72 48C72 34.7452 61.2548 24 48 24Z" fill="#34C7A1"/>
+  <path d="M48 48L60 36" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 48L36 44" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="48" cy="48" r="5" fill="#FFFFFF"/>
+</svg>
